@@ -1,4 +1,18 @@
-### Hi there 👋
+
+## Rizal Jihadudin - @zldin
+
+Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
+
+### 🌱 I’m currently learning ...
+
+- CodeIgniter (PHP)
+- Laravel (PHP)
+- Javascript
+- Node.Js
+
+### 📫 How to reach me: ...
+
+- 📧 rizaljihadudin@gmail.com
 
 <!--
 **rzldin/rzldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
