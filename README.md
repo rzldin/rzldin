@@ -1,5 +1,5 @@
 
-## Rizal Jihadudin - @zldin
+## Rizal Jihadudin - @rzldin
 
 Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 
