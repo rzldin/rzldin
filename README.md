@@ -9,7 +9,7 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 - Laravel (PHP)
 - Javascript
 - Express
-- Desain With Figma
+- Make Web Design With Figma
 
 ### 📫 How to reach me: ...
 
