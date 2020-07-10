@@ -3,7 +3,7 @@
 
 Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
 
 - CodeIgniter (PHP)
 - Laravel (PHP)
@@ -11,7 +11,7 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 - Express
 - Make Web Design With Figma
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 
 - 📧 rizaljihadudin@gmail.com
 
