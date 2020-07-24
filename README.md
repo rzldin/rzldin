@@ -10,7 +10,6 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 - Javascript
 - VueJs
 - ExpressJs
-- SQL
 
 ### 📫 How to reach me:
 
