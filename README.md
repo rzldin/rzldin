@@ -8,6 +8,8 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 - CodeIgniter (PHP)
 - Laravel (PHP)
 - Javascript
+- AJAX
+- jQuery
 - VueJs
 - ExpressJs
 
