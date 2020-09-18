@@ -11,11 +11,14 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 - AJAX
 - jQuery
 - VueJs
+- ReactJs
 - ExpressJs
 
 ### 📫 How to reach me:
 
 - 📧 rizaljihadudin@gmail.com
+
+### 👯 I’m looking to collaborate
 
 <!--
 **rzldin/rzldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
