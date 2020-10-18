@@ -20,7 +20,7 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzldin&show_icons=true" alt="rzldin" />
 </p>
 
-<p align="center">
+<p align="justify">
     <a href="https://linkedin.com/in/rizaljihaudidn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rzldin"         height="30" width="30" /></a>
 </p>
 
