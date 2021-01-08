@@ -23,7 +23,7 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 ### My Github Most Used Language
 
 <p>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=rzldin&theme=vue">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzldin)
 </p>
 
 
