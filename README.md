@@ -20,6 +20,13 @@ Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzldin&show_icons=true" alt="rzldin" />
 </p>
 
+### My Github Most Used Language
+
+<p>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=rzldin&theme=vue">
+</p>
+
+
 <p align="center">
     <a href="https://linkedin.com/in/rizaljihadudin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rzldin"         height="30" width="30" /></a>
     <a href="https://instagram.com/rzldin_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rzldin" height="30"     width="30" /></a>
