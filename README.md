@@ -3,33 +3,11 @@
 
 Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 
-### 🌱 I’m currently learning
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rzldin.rzldin&bg_color=1d1f21)
 
-- CodeIgniter (PHP)
-- Laravel (PHP)
-- Javascript
-- AJAX
-- jQuery
-- VueJs
-- ReactJs
-- ExpressJs
-
-### Github Stats
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzldin&show_icons=true" alt="rzldin" />
-</p>
-
-### My Github Most Used Language
-
-<p>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzldin" />
-</p>
-
-<p align="center">
-    <a href="https://linkedin.com/in/rizaljihadudin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rzldin"         height="30" width="30" /></a>
-    <a href="https://instagram.com/rzldin_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rzldin" height="30"     width="30" /></a>
-</p>
+<a href="https://github.com/nisacodelifings/nisacodelifings">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzldin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="A GitHub Stats" />
+</a>
 
 ### 📫 How to reach me:
 
