@@ -3,6 +3,9 @@
 
 Hi there 👋, I'm Rizal Jihadudin Web Developer from Depok, Indonesia.
 
+[![Linkedin](https://img.shields.io/badge/-RizalJihadudin-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizaljihadudin/)](https://www.linkedin.com/in/rizaljihadudin/)
+[![Instagram](https://img.shields.io/badge/-@rzldin_-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/rzldin_/)](https://instagram.com/rzldin_)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rzldin.rzldin&bg_color=1d1f21)
 
 <a href="https://github.com/nisacodelifings/nisacodelifings">
